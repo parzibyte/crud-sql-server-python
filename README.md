@@ -1,5 +1,5 @@
 # Conectar SQL Server con Python 3
-Mira el tutorial en: 
+Mira el tutorial en: https://parzibyte.me/blog/2019/06/14/conexion-sql-server-python-pyodbc-crud/
 
 
 Haremos un CRUD para demostrar cómo se hacen las 4 operaciones básicas a una base de datos.
